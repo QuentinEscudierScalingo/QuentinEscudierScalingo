@@ -7,8 +7,8 @@
   
   <h2>GitHub Stats</h2>
   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Eaviwolph&show_icons=true&hide=contribs,prs&cache_seconds=86400&hide_border=true&bg_color=00000000&theme=dark" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eaviwolph&layout=compact&hide_border=true&bg_color=00000000&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=QuentinEscudierScalingo&show_icons=true&hide=contribs,prs&cache_seconds=86400&hide_border=true&bg_color=00000000&theme=dark" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinEscudierScalingo&layout=compact&hide_border=true&bg_color=00000000&theme=dark" />
   
 <!--
 **Eaviwolph/Eaviwolph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
