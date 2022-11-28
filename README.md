@@ -2,7 +2,7 @@
   
   <h2>About</h2>
   <p>
-    Hello, I'm Eaviwolph, I'm a software engineer<br>
+    Hello, I'm Quentin Escudier, I'm a software engineer<br>
   </p>
   
   <h2>GitHub Stats</h2>
